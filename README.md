@@ -1,10 +1,23 @@
 <br clear="both">
 
-<h2 align="center">I'm a seasoned Full Stack Developer with expertise in HTML, CSS, JavaScript, React, Node.js, and databases. I excel at turning ideas into functional web solutions and thrive on staying ahead of tech trends. Let's collaborate to bring your projects to life!</h2>
+<div align="center">
+<img width="100%" height = "250px" src="https://www.liveprompter.com/wp-content/uploads/2017/09/hello-world-banner.jpg" alt="cover" />
+</div>
 
-###
+## Hello world 👋
 
 <div align="center">
+  <h3>Welcome to my github. Here's my website:</h3>
+  <h3><a href="https://lil-loki.github.io/Portfolio/">lil-loki.github.io </a></h3>
+</div>
+
+## About Me 👋
+
+<h3 align="center">I'm a seasoned Full Stack Developer with expertise in HTML, CSS, JavaScript, React, Node.js, and databases. I excel at turning ideas into functional web solutions and thrive on staying ahead of tech trends. Let's collaborate to bring your projects to life!</h3>
+
+## I Work With:
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -140,28 +153,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
 
-###
-
 <br clear="both">
 
-
-<div align="center">
-  <img src="https://github.com/lil-loki/lil-loki/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-</div>
-
-###
-
-<br clear="both">
-
+## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lil-loki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lil-loki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+## Some Programming Humor for you 
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card">
+</div>
+
+## Current State
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/7Tu-pBzg0_kAAAAM/programming.gif"  />
 </div>
 
-###
+##
