@@ -144,7 +144,7 @@
 
 <br clear="both">
 
-<!-- <img src="https://github.com/lil-loki/lil-loki/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" /> -->
+<img src="https://github.com/lil-loki/lil-loki/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 ![snake gif](https://github.com/lil-loki/lil-loki/blob/output/github-contribution-grid-snake.gif)
 
 ###
