@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">I'm a seasoned Full Stack Developer with expertise in HTML, CSS, JavaScript, React, Node.js, and databases. I excel at turning ideas into functional web solutions and thrive on staying ahead of tech trends. Let's collaborate to bring your projects to life!</h1>
+<h2 align="center">I'm a seasoned Full Stack Developer with expertise in HTML, CSS, JavaScript, React, Node.js, and databases. I excel at turning ideas into functional web solutions and thrive on staying ahead of tech trends. Let's collaborate to bring your projects to life!</h2>
 
 ###
 
@@ -144,8 +144,10 @@
 
 <br clear="both">
 
-<img src="https://github.com/lil-loki/lil-loki/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-![snake gif](https://github.com/lil-loki/lil-loki/blob/output/github-contribution-grid-snake.gif)
+
+<div align="center">
+  <img src="https://github.com/lil-loki/lil-loki/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+</div>
 
 ###
 
