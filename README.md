@@ -4,7 +4,7 @@
 <img width="100%" height = "250px" src="https://www.liveprompter.com/wp-content/uploads/2017/09/hello-world-banner.jpg" alt="cover" />
 </div>
 
-## Hello world 👋
+## 
 
 <div align="center">
   <h3>Welcome to my github. Here's my website:</h3>
